@@ -1,3 +1,3 @@
-this is my fist git file!
-thank you!
+git is a distribution version control system.
+git is a free software.
 
